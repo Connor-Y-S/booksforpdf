@@ -96,10 +96,10 @@
 
 48.WINDOWS核心编程第五版扫描版
 
-# 如有侵权，联系删除(请发在问题，谢谢)                
+# 如有侵权， 联系删除 (请发在问题， 谢谢)                
 
 # If there is infringement, contact to delete (please post in the question, thank you)
 
-## 仅供学习交流，严禁用于商业用途，请于24小时内删除
+## 仅供学习交流， 严禁用于商业用途， 请于24小时内删除
 
 ## For learning and communication only, strictly prohibited for commercial use, please delete within 24 hours
